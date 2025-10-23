@@ -1,6 +1,10 @@
-# Yang_Group---Human-computer-Interaction
+## Team name:                        Green Sort
 
+## Team Introduction
 
+202200130035郭琪  202200130227金振宇   202200400046张子扬   202200130038朱秋烨
+
+## Project Proposal
 
 In today’s society, waste sorting has become an essential part of promoting environmental protection and sustainable development. However, many residents still feel confused when faced with waste classification in their daily lives. Different cities—and even different neighborhoods—often have varying standards for sorting waste. Items such as milk tea cups, express packaging, and wet wipes can be difficult to categorize, leaving people unsure which bin to use. Incorrect waste disposal not only increases the cost of subsequent processing but also reduces overall recycling efficiency and weakens the effectiveness of environmental policies. Although many residents are environmentally conscious, they often lack a convenient tool to help them quickly make the right sorting decisions.
 
