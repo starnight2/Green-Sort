@@ -1,0 +1,11 @@
+﻿Respondent_ID,Age_Group,Gender,Housing_Type,City,Household_Size,Waste_Sorting_Frequency,Familiarity_with_Rules,Uncertain_Items_Frequency,Behavior_when_Uncertain,Confidence_Score(1–5),Importance_Score(1–5),Motivation_Score(1–5),Biggest_Barrier,Willing_to_Use_Tools,Recommend_Score(1–5),Useful_Features,Integrate_with_Schedule,Ease_Importance(1–5),Stop_Using_Reason
+1,18–25,Female,Apartment,Jinan,3–4,Always,Very familiar,Weekly,Search online,4,5,4,Complexity of rules,Yes,5,Photo recognition; reminders,Yes,5,Too complicated
+2,26–35,Male,House,Beijing,2,Sometimes,Somewhat familiar,Monthly,Guess,3,4,3,Lack of knowledge,Maybe,4,Keyword search; local rule updates,Yes,4,Not accurate
+3,18–25,Female,Dormitory,Shanghai,1,Always,Very familiar,Rarely,Search online,5,5,5,Lack of tools,Yes,5,Photo recognition; rewards system,Yes,5,Not needed
+4,36–45,Male,Apartment,Qingdao,5+,Sometimes,Not familiar,Weekly,Ask others,2,3,3,Lack of time,Maybe,3,Reminders; keyword search,Maybe,4,Too complicated
+5,26–35,Female,Apartment,Hangzhou,3–4,Always,Very familiar,Weekly,Search online,5,5,5,Other,Yes,5,Photo recognition; local rule updates,Yes,5,Privacy concerns
+6,18–25,Male,Dormitory,Nanjing,1,Sometimes,Somewhat familiar,Monthly,Leave it unsorted,3,4,4,Lack of knowledge,Yes,4,Rewards; reminders,Yes,4,Not accurate
+7,46–60,Female,House,Suzhou,2,Rarely,Not familiar,Weekly,Ask others,2,3,2,Complexity of rules,No,2,Local rule updates,No,3,Too complicated
+8,26–35,Male,Apartment,Shenzhen,3–4,Always,Very familiar,Rarely,Search online,5,5,5,Lack of tools,Yes,5,Photo recognition; reminders,Yes,5,Not needed
+9,18–25,Female,Dormitory,Guangzhou,2,Sometimes,Somewhat familiar,Weekly,Guess,3,4,3,Lack of time,Yes,4,Keyword search; rewards,Yes,5,Not accurate
+10,36–45,Male,House,Tianjin,5+,Rarely,Not familiar,Monthly,Leave it unsorted,2,3,2,Complexity of rules,No,2,Reminders,No,3,Too complicated
